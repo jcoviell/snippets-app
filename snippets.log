@@ -17,3 +17,12 @@ INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+ERROR:root:FIXME: Unimplemented - put('list', 'a sequence of things')
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
